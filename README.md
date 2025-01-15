@@ -13,7 +13,7 @@ Techniques avancées de Python pour l'optimisation du backend
 
   
 📫 Me contactez 
-Mon discord : klnp 
+Mon discord : ldlc
 
 
 <!---
