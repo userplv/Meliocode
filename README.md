@@ -1,4 +1,4 @@
-👋 salut je m'appel  @echarpe Je suis un jeune apprenti développeur passionné par le web et le backend. J'aime créer des applications web et explorer de nouvelles technologies.- 
+👋 salut je m'appel  @poutine Je suis un jeune apprenti développeur passionné par le web et le backend. J'aime créer des applications web et explorer de nouvelles technologies.- 
 - 👀 Mes competence 
 - ![image](https://github.com/user-attachments/assets/da0a072a-758c-49f8-a43c-242077a8c5c4)
 
