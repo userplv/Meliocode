@@ -12,8 +12,7 @@
 Techniques avancées de Python pour l'optimisation du backend
 
   
-📫 Me contactez 
-Mon discord : ldlc
+
 
 
 <!---
